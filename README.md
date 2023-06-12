@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Welcome!
+I'm Risa McNellis, an early career ecologist currently working as the Information Manager of the Plum Island Ecosystems LTER (@PIE-LTER) at the Marine Biological Laboratory.
 <!--
 **rmcnellis/rmcnellis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
